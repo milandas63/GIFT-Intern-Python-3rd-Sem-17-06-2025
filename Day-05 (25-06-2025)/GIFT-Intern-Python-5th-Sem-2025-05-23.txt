@@ -1106,3 +1106,7 @@ MILAN DAS                   7978168568      milandas63@gmail.com                
                   rel="stylesheet" 
                   integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
                   crossorigin="anonymous">
+
+    =   ASSIGNMENT:
+        Write a program to create a form for taking employee information of individual
+        person.
