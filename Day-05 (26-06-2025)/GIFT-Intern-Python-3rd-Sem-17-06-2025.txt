@@ -1,0 +1,819 @@
+Course: PYTHON
+Start Date: 17-06-2025 to 18-07-2025
+Time: Tuesday-Thursday-Saturday (03:00 pm-05:00 pSm)
+WhatsApp group: GIFT-Intern-Python-3rd-Sem
+GitHub-Link: https://github.com/milandas63/GIFT-Intern-Python-3rd-Sem-17-06-2025/
+Wifi Password: #A1B2C3E5D4#
+Mode-of-Class: Tuesday-Thursday-Saturday (3 days/week)
+
+Participants:
+MILAN DAS                       7978168568      milandas63@gmail.com                milandas63
+ 1  A B Rajkrishnan Mishra      9040800675      
+ 2  Akash Das                   7815032530    
+ 3  Debaraj Sahoo               7609966400    
+ 4  Jyoti Ranjan Samal          8599012343    
+ 5  Madana Mohana Behera        9178685345    
+ 6  Omm Prakash Pradhan         7978974818    
+ 7  Satyajit Pati               9831936799    
+ 8  Soumyaranjan Sarangi        7846995747    
+ 9  Subhalaxmi Swain            9178379032    
+10  Avijeet Subudhiray          7978473768    
+11  Binaya Kumar Subudhiray     7848941699    
+12  Rudranarayan Mishra         8260977050    
+13  Subhendu Kumar Behera       9692333050    
+14  Swastik Suvam Majhi         9861151630    
+15  Neeraj Behera               8709225229    
+16  Omm Sairam Mahanta          7849025583    
+17  Satyapragnya Samal          9348964490    
+18  Amiya Ranjan Mohanty        7325967795    
+19  Amlan Abhilash Mohanty      7978877106    
+20  Biswaranjan Sahoo           9668196437    
+21  Pritam Parida               9724590072    
+22  Sanjeeb Sarkar              9040761540    
+23  Surya Pratap Parida         7854058069    
+24  Ashutosh Behura             8984676075    
+25  Deepak Subudhiray           7735304019    
+26  Gouri Shankar Panigrahi     8093497509    
+27  Rajib Mohanty               9337689286    
+28  Rudra Narayan Tripathy      9937532838    
+29  Shiba Sankar Sahu           8328817716    
+30  Amit Raj                    8757386165    
+31  Ashutosh Rout               7377567381    
+32  Chinmay Pradhan             8144199026    
+33  Gourab Ranjan Parida        7606060417    
+34  Shubham Lenka               7894256790    
+35  Soubhagya Priyadarshan      9040752198    
+36  Soumyaranjan Sahoo          9827949975    
+37  Subham Senapati             8249475464    
+
+
++---------------------+
+| Tuesday 17-06-2025  |   Day-01
++---------------------+
+    =   Induction
+
++----------------------+
+| Thursday 19-06-2025  |   Day-02
++----------------------+
+WHAT IS PYTHON?
+    Python is a widely-used, compiled and interpreted, garbage-collected,
+    high-level programming language and purely object-oriented programming
+    language that supports procedural, object-oriented, and functional
+    programming with dynamic semantics, used for general-purpose programming.
+    It’s everywhere, and people use numerous Python-powered devices on a daily
+    basis, whether they realize it or not.
+
+----------------------------------------------------------------------------------
+
+WHO DEVELOPED PYTHON?
+    The seed from which Python sprouted was created by Guido van Rossum,
+    and first released on February 20, 1991. While you may know the python
+    as a large snake, the name of the Python programming language comes
+    from an old BBC television comedy sketch series called Monty Python's
+    Flying Circus.
+
+----------------------------------------------------------------------------------
+
+FEATURES OF PYTHON:
+1.  Easy to use and Read - Python's syntax is clear and easy to read,
+    making it an ideal language for both beginners and experienced programmers.
+    This simplicity can lead to faster development and reduce the chances of errors.
+2.  Dynamically Typed - The data types of variables are determined during run-time.
+    We do not need to specify the data type of a variable during writing codes.
+3.  High-level - High-level language means human readable code.
+4.  Compiled and Interpreted - Python code first gets compiled into bytecode,
+    and then interpreted line by line. When we download the Python in our
+    system form org we download the default implement of Python known as
+    CPython. CPython is considered to be Complied and Interpreted both.
+5.  Garbage Collected - Memory allocation and de-allocation are automatically
+    managed. Programmers do not specifically need to manage the memory.
+6.  Purely Object-Oriented - It refers to everything as an object, including
+    numbers and strings.
+7.  Cross-platform Compatibility - Python can be easily installed on Windows,
+    macOS, and various Linux distributions, allowing developers to create
+    software that runs across different operating systems.
+8.  Rich Standard Library - Python comes with several standard libraries that
+    provide ready-to-use modules and functions for various tasks, ranging
+    from web development and data manipulation to machine learning and
+    networking.
+9.  Open Source - Python is an open-source, cost-free programming language.
+    It is utilized in several sectors and disciplines as a result.
+
+----------------------------------------------------------------------------------
+
+HISTORY OF PYTHON
+    Python was created by Guido van Rossum. In the late 1980s, Guido van Rossum,
+    a Dutch programmer, began working on Python while at the Centrum Wiskunde &
+    Informatica (CWI) in the Netherlands. He wanted to create a successor to the
+    ABC programming language that would be easy to read and efficient.
+
+    In February 1991, the first public version of Python, version 0.9.0, was
+    released. This marked the official birth of Python as an open-source project.
+    The language was named after the British comedy series "Monty Python's
+    Flying Circus".
+
+    Python development has gone through several stages. In January 1994,
+    Python 1.0 was released as a usable and stable programming language.
+    This version included many of the features that are still present in
+    Python today.
+
+    From the 1990s to the 2000s, Python gained popularity for its simplicity,
+    readability, and versatility. In October 2000, Python 2.0 was released.
+    Python 2.0 introduced list comprehensions, garbage collection, and support
+    for Unicode.
+
+    In December 2008, Python 3.0 was released. Python 3.0 introduced several
+    backward-incompatible changes to improve code readability and maintainability.
+
+    Throughout 2010s, Python's popularity increased, particularly in fields like
+    data science, machine learning, and web development. Its rich ecosystem of
+    libraries and frameworks made it a favourite among developers.
+
+    The Python Software Foundation (PSF) was established in 2001 to promote,
+    protect, and advance the Python programming language and its community.
+
+    ----------------------------------------------------------------------------------
+
+    WHY LEARN PYTHON?
+    Python provides many useful features to the programmer. These features make
+    it the most popular and widely used language. We have listed below
+    few-essential features of Python.
+
+    1.  Easy to use and Learn: Python has a simple and easy-to-understand syntax,
+        unlike traditional languages like C, C++, Java, etc., making it easy for
+        beginners to learn.
+    2.  Expressive Language: It allows programmers to express complex concepts in
+        just a few lines of code or reduces Developer's Time.
+    3.  Interpreted Language: Python does not require compilation, allowing rapid
+        development and testing. It uses Interpreter instead of Compiler.
+    4.  Object-Oriented Language: It supports object-oriented programming, making
+        writing reusable and modular code easy.
+    5.  Open-Source Language: Python is open-source and free to use, distribute
+        and modify.
+    6.  Extensible: Python can be extended with modules written in C, C++, or
+        other languages.
+    7.  Learn Standard Library: Python's standard library contains many modules
+        and functions that can be used for various tasks, such as string
+        manipulation, web programming, and more.
+    8.  GUI Programming Support: Python provides several GUI frameworks, such as
+        Tkinter and PyQt, allowing developers to create desktop applications easily.
+    9.  Integrated: Python can easily integrate with other languages and
+        technologies, such as C/C++, Java, and . NET.
+    10. Embeddable: Python code can be embedded into other applications as a
+        scripting language.
+    11. Dynamic Memory Allocation: Python automatically manages memory allocation,
+        making it easier for developers to write complex programs without worrying
+        about memory management.
+    12. Wide Range of Libraries and Frameworks: Python has a vast collection of
+        libraries and frameworks, such as NumPy, Pandas, Django, and Flask, that
+        can be used to solve a wide range of problems.
+    13. Versatility: Python is a universal language in various domains such as web
+        development, machine learning, data analysis, scientific computing, and more.
+    14. Large Community: Python has a vast and active community of developers
+        contributing to its development and offering support. This makes it easy
+        for beginners to get help and learn from experienced developers.
+    15. Career Opportunities: Python is a highly popular language in the job market.
+        Learning Python can open up several career opportunities in data science,
+        artificial intelligence, web development, and more.
+    16. High Demand: With the growing demand for automation and digital
+        transformation, the need for Python developers is rising. Many
+        industries seek skilled Python developers to help build their digital
+        infrastructure.
+    17. Increased Productivity: Python has a simple syntax and powerful libraries
+        that can help developers write code faster and more efficiently. This can
+        increase productivity and save time for developers and organizations.
+    18. Big Data and Machine Learning: Python has become the go-to language for
+        big data and machine learning. Python has become popular among data
+        scientists and machine learning engineers with libraries like NumPy,
+        Pandas, Scikit-learn, TensorFlow, and more.
+
+----------------------------------------------------------------------------------
+
+PYTHON KEYWORDS
+    Python has a set of keywords that are reserved words that cannot be
+    used as variable names, function names, or any other identifiers:
+
+    KEYWORD     DESCRIPTION
+     1> and         A logical operator
+     2. as          To create an alias
+     3. assert      For debugging
+     4> break       To break out of a loop
+     5> class       To define a class
+     6. continue    To continue to the next iteration of a loop
+     7> def         To define a function
+     8. del         To delete an object
+     9> elif        Used in conditional statements, same as else if
+    10> else        Used in conditional statements
+    11. except      Used with exceptions, what to do when an exception occurs
+    12. False       Boolean value, result of comparison operations
+    13. finally     Used with exceptions, a block of code that will be executed no
+                    matter if there is an exception or not
+    14. for         To create a for loop
+    15. from        To import specific parts of a module
+    16. global      To declare a global variable
+    17> if          To make a conditional statement
+    18. import      To import a module
+    19. in          To check if a value is present in a list, tuple, etc.
+    20. is          To test if two variables are equal
+    21. lambda      To create an anonymous function
+    22. None        Represents a null value
+    23. nonlocal    To declare a non-local variable
+    24. not         A logical operator
+    25. or          A logical operator
+    26. pass        A null statement, a statement that will do nothing
+    27. raise       To raise an exception
+    28. return      To exit a function and return a value
+    29. True        Boolean value, result of comparison operations
+    30. try         To make a try...except statement
+    31. while       To create a while loop
+    32. with        Used to simplify exception handling
+    33. yield       To return a list of values from a generator
+
+----------------------------------------------------------------------------------
+
+PYTHON GLOSSARY
+    This is a list of all the features explained in the Python Tutorial.
+
+    Indentation
+        Indentation refers to the spaces at the beginning of a code line
+    Comments
+        Comments are code lines that will not be executed
+    Multiline Comments
+        How to insert comments on multiple lines
+    Creating Variables
+        Variables are containers for storing data values
+    Variable Names
+        How to name your variables
+    Assign Values to Multiple Variables
+        How to assign values to multiple variables
+    Output Variables
+        Use the print statement to output variables
+    String Concatenation
+        How to combine strings
+    Global Variables
+        Global variables are variables that belongs to the global scope
+    Built-In Data Types
+        Python has a set of built-in data types
+    Getting Data Type
+        How to get the data type of an object
+    Setting Data Type
+        How to set the data type of an object
+    Numbers
+        There are three numeric types in Python
+    Int
+        The integer number type
+    Float
+        The floating number type
+    Complex
+        The complex number type
+    Type Conversion
+        How to convert from one number type to another
+    Random Number
+        How to create a random number
+    Specify a Variable
+        Type    How to specify a certain data type for a variable
+    String Literals
+        How to create string literals
+    Assigning a String to a Variable
+        How to assign a string value to a variable
+    Multiline Strings
+        How to create a multiline string
+    Strings are Arrays
+        Strings in Python are arrays of bytes representing Unicode characters
+    Slicing a String
+        How to slice a string
+    Negative Indexing on a String
+        How to use negative indexing when accessing a string
+    String Length
+        How to get the length of a string
+    Check In String
+        How to check if a string contains a specified phrase
+    Format String
+        How to combine two strings
+    Escape Characters
+        How to use escape characters
+    Boolean Values
+        True or False
+    Evaluate Booleans
+        Evaluate a value or statement and return either True or False
+    Return Boolean Value
+        Functions that return a Boolean value
+    Operators
+        Use operator to perform operations in Python
+    Arithmetic Operators
+        Arithmetic operator are used to perform common mathematical operations
+    Assignment Operators
+        Assignment operators are use to assign values to variables
+    Comparison Operators
+        Comparison operators are used to compare two values
+    Logical Operators
+        Logical operators are used to combine conditional statements
+    Identity Operators
+        Identity operators are used to see if two objects are in fact the same object
+    Membership Operators
+        Membership operators are used to test is a sequence is present in an object
+    Bitwise Operators
+        Bitwise operators are used to compare (binary) numbers
+    Lists
+        A list is an ordered, and changeable, collection
+    Access List Items
+        How to access items in a list
+    Change List Item
+        How to change the value of a list item
+    Loop Through List Items
+        How to loop through the items in a list
+    List Comprehension
+        How use a list comprehensive
+    Check if List Item Exists
+        How to check if a specified item is present in a list
+    List Length
+        How to determine the length of a list
+    Add List Items
+        How to add items to a list
+    Remove List Items
+        How to remove list items
+    Copy a List
+        How to copy a list
+    Join Two Lists
+        How to join two lists
+    Tuple
+        A tuple is an ordered, and unchangeable, collection
+    Access Tuple Items
+        How to access items in a tuple
+    Change Tuple Item
+        How to change the value of a tuple item
+    Loop List Items
+        How to loop through the items in a tuple
+    Check if Tuple Item Exists
+        How to check if a specified item is present in a tuple
+    Tuple Length
+        How to determine the length of a tuple
+    Tuple With One Item
+        How to create a tuple with only one item
+    Remove Tuple Items
+        How to remove tuple items
+    Join Two Tuples
+        How to join two tuples
+    Set
+        A set is an unordered, and unchangeable, collection
+    Access Set Items
+        How to access items in a set
+    Add Set Items
+        How to add items to a set
+    Loop Set Items
+        How to loop through the items in a set
+    Check if Set Item Exists
+        How to check if a item exists
+    Set Length
+        How to determine the length of a set
+    Remove Set Items
+        How to remove set items
+    Join Two Sets
+        How to join two sets
+    Dictionary
+        A dictionary is an unordered, and changeable, collection
+    Access Dictionary Items
+        How to access items in a dictionary
+    Change Dictionary Item
+        How to change the value of a dictionary item
+    Loop Dictionary Items
+        How to loop through the items in a tuple
+    Check if Dictionary Item Exists
+        How to check if a specified item is present in a dictionary
+    Dictionary Length
+        How to determine the length of a dictionary
+    Add Dictionary Item
+        How to add an item to a dictionary
+    Remove Dictionary Items
+        How to remove dictionary items
+    Copy
+        Dictionary  How to copy a dictionary
+    Nested Dictionaries
+        A dictionary within a dictionary
+    If Statement
+        How to write an if statement
+    If Indentation
+        If statements in Python relies on indentation (whitespace at the
+        beginning of a line)
+    Elif
+        elif is the same as "else if" in other programming languages
+    Else
+        How to write an if...else statement
+    Shorthand If
+        How to write an if statement in one line
+    Shorthand If Else
+        How to write an if...else statement in one line
+    If AND
+        Use the and keyword to combine if statements
+    If OR
+        Use the or keyword to combine if statements
+    If NOT
+        Use the not keyword to reverse the condition
+    Nested If
+        How to write an if statement inside an if statement
+    The pass Keyword in If
+        Use the pass keyword inside empty if statements
+    While
+        How to write a while loop
+    While Break
+        How to break a while loop
+    While Continue
+        How to stop the current iteration and continue wit the next
+    While Else
+        How to use an else statement in a while loop
+    For
+        How to write a for loop
+    Loop Through a String
+        How to loop through a string
+    For Break
+        How to break a for loop
+    For Continue
+        How to stop the current iteration and continue wit the next
+    Looping Through a range
+        How to loop through a range of values
+    For Else
+        How to use an else statement in a for loop
+    Nested Loops
+        How to write a loop inside a loop
+    For pass
+        Use the pass keyword inside empty for loops
+    Function
+        How to create a function in Python
+    Call a Function
+        How to call a function in Python
+    Function Arguments
+        How to use arguments in a function
+    *args
+        To deal with an unknown number of arguments in a function, use the
+        * symbol before the parameter name
+    Keyword Arguments
+        How to use keyword arguments in a function
+    **kwargs
+        To deal with an unknown number of keyword arguments in a function,
+        use the * symbol before the parameter name
+    Default Parameter Value
+        How to use a default parameter value
+    Passing a List as an Argument
+        How to pass a list as an argument
+    Function Return Value
+        How to return a value from a function
+    The pass Statement in Functions
+        Use the pass statement in empty functions
+    Function Recursion
+        Functions that can call itself is called recursive functions
+    Lambda Function
+        How to create anonymous functions in Python
+    Why Use Lambda Functions
+        Learn when to use a lambda function or not
+    Array
+        Lists can be used as Arrays
+    What is an Array
+        Arrays are variables that can hold more than one value
+    Access Arrays
+        How to access array items
+    Array Length
+        How to get the length of an array
+    Looping Array Elements
+        How to loop through array elements
+    Add Array Element
+        How to add elements from an array
+    Remove Array Element
+        How to remove elements from an array
+    Array Methods
+        Python has a set of Array/Lists methods
+    Class
+        A class is like an object constructor
+    Create Class
+        How to create a class
+    The Class __init__() Function
+        The __init__() function is executed when the class is initiated
+    Object Methods
+        Methods in objects are functions that belongs to the object
+    self
+        The self parameter refers to the current instance of the class
+    Modify Object Properties
+        How to modify properties of an object
+    Delete Object Properties
+        How to modify properties of an object
+    Delete Object
+        How to delete an object
+    Class pass Statement
+        Use the pass statement in empty classes
+    Create Parent Class
+        How to create a parent class
+    Create Child Class
+        How to create a child class
+    Create the __init__() Function
+        How to create the __init__() function
+    super Function
+        The super() function make the child class inherit the parent class
+    Add Class Properties
+        How to add a property to a class
+    Add Class Methods
+        How to add a method to a class
+    Iterators
+        An iterator is an object that contains a countable number of values
+    Iterator vs Iterable
+        What is the difference between an iterator and an iterable
+    Loop Through an Iterator
+        How to loop through the elements of an iterator
+    Create an Iterator
+        How to create an iterator
+    StopIteration
+        How to stop an iterator
+    Global Scope
+        When does a variable belong to the global scope?
+    Global Keyword
+        The global keyword makes the variable global
+    Create a Module
+        How to create a module
+    Variables in Modules
+        How to use variables in a module
+    Renaming a Module
+        How to rename a module
+    Built-in Modules
+        How to import built-in modules
+    Using the dir() Function
+        List all variable names and function names in a module
+    Import From Module
+        How to import only parts from a module
+    Datetime Module
+        How to work with dates in Python
+    Date Output
+        How to output a date
+    Create a Date Object
+        How to create a date object
+    The strftime Method
+        How to format a date object into a readable string
+    Date Format Codes
+        The datetime module has a set of legal format codes
+    JSON
+        How to work with JSON in Python
+    Parse JSON
+        How to parse JSON code in Python
+    Convert into JSON
+        How to convert a Python object in to JSON
+    Format JSON
+        How to format JSON output with indentations and line breaks
+    Sort JSON
+        How to sort JSON
+    RegEx Module
+        How to import the regex module
+    RegEx Functions
+        The re module has a set of functions
+    Metacharacters in RegEx
+        Metacharacters are characters with a special meaning
+    RegEx Special Sequences
+        A backslash followed by a a character has a special meaning
+    RegEx Sets
+        A set is a set of characters inside a pair of square brackets with a special meaning
+    RegEx Match Object
+        The Match Object is an object containing information about the search and the result
+    Install PIP
+        How to install PIP
+    PIP Packages
+        How to download and install a package with PIP
+    PIP Remove Package
+        How to remove a package with PIP
+    Error Handling
+        How to handle errors in Python
+    Handle Many Exceptions
+        How to handle more than one exception
+    Try Else
+        How to use the else keyword in a try statement
+    Try Finally
+        How to use the finally keyword in a try statement
+    raise
+        How to raise an exception in Python
+
++----------------------+
+| Saturday 20-06-2025  |
++----------------------+
+    =   Class cancelled due to PM Narendra Modi's visit at Janata Maidan.
+
+
++--------------------+
+| Friday 21-06-2025  |   Day-03
++--------------------+
+    =   The string class (str)
+        1.  capitalize      It converts the first character to uppercase
+        2.  title           Converts the first letter of every word in a sentence
+        3.  swapcase        Converts every character to its equivalent uppercase or lowercase
+        4.  upper           Converts to uppercase
+        5.  lower           Converts to lowercase
+        6.  isupper         Returns True if the specified string is uppercase
+        7.  islower         Returns True if the specified string is lowercase
+
+    =   General functions:
+        1.  ord         returns the UNICODE number of a specified character
+        2.  chr         returns the Character equivalent of a UNICODE number
+        3.  len         returns the length of a string, list, etc.
+
+    =   ASSIGNMENT-Homework: STRING SLICER
+        1.  What would be the output of the following code?
+            s = 'thinktank'
+            print(s[5:5])
+            A) k
+            B) t
+            C> Blank Output
+            D) ktank
+
+        2.  What would be the output of the following code?
+            s = 'follow'
+            print(s[3:8])
+            A) llow
+            B> low
+            C) lowlow
+            D) IndexError
+
+        3.  What would be the output of the following code?
+            s = 'medium'
+            print(s[-4:4])
+            A> di
+            B) diu
+            C) id
+            D) Blank Output
+
+        4.  Fill the blank with the code that would give the following output.
+            s = 'pythonista'
+            print(__________)
+            Output:
+            inoh
+            A) s[3:7:-1]
+            B) s[7:3:-1]
+            C) s[6:3]
+            D> s[6:2:-1]
+
+        5.  Fill the blank with the code that would give the following output.
+            s = 'program'
+            print(__________)
+            Output:
+            rga
+            A> s[-6:-1:2]
+            B) s[3:6]
+            C) s[1:6]
+            D) s[1:5:2]
+
+        6.  What would be the output of the following code?
+            s = 'coder'
+            print(s[::0])
+            A) redoc
+            B) coder
+            C) ValueError
+            D) IndexError
+
+        7.  What would be the output of the following code?
+            s = 'doubled'
+            print(s[1:6][1:3])
+            A) oubleou
+            B) ub
+            C) ou
+            D) ubl
+
+        8.  Fill the blank with the code that would give the following output.
+            s = 'question'
+            print(__________)
+            Output:
+            nisu
+            A) s[::2]
+            B) s[0:-1:-2]
+            C) s[-1::-2]
+            D) s[1:7:2]
+
+        9.  Fill the blank with the code that would give the following output.
+            s = 'subscribe'
+            print(__________)
+            Output:
+            Blank Output
+            A) s[:]
+            B) s[-6:-3:2]
+            C) s[4:5]
+            D) s[-3:-6:2]
+
+        10. What would be the output of the following code?
+            s = 'completed'
+            print(s[2:5:3])
+            A) m
+            B) me
+            C) o
+            D) Blank Output
+
++---------------------+
+| Tuesday 24-06-2025  |   Day-04
++---------------------+
+    =   WAP to reverse a given string
+    =   WAP to count the number of vowels in a given string
+    =   WAP to print all prime numbers between two given numbers
+    =   WAP to print pallindrome triangle using lower case alphabetic characters
+    =   WAP to print all multiplication tables between two given numbers
+
+    =   CLASS-ASSIGNMENT:
+        Write a function that takes a list of strings and prints them, one per line, in           
+        a rectangular frame.                                                                      
+        sentence = "An abstract class provides default implementations"                           
+        For example the list ["An", "abstract", "class", "provides", "default", "implementations"]
+        gets printed as:                                                                          
+            *******************                                                                   
+            * An              *                                                                   
+            * abstract        *                                                                   
+            * class           *                                                                   
+            * provides        *                                                                   
+            * default         *                                                                   
+            * implementations *                                                                   
+            *******************                                                                   
+
++----------------------+
+| Thursday 26-06-2025  |   Day-05
++----------------------+
+    =   Built-in data types in Python are fundamental data types that are readily available
+        for use without requiring any additional libraries or modules. Here's a breakdown
+        of the common built-in data types:
+        >   Numeric Types:
+            int: Represents integer values (e.g., 10, -5, 0).
+            float: Represents floating-point numbers (e.g., 3.14, -2.5, 0.0).
+            complex: Represents complex numbers with a real and imaginary part (e.g., 2+3j).
+        >   Text Type:
+            str: Represents sequences of characters (e.g., "hello", 'world').
+        >   Sequence Types:
+            list: Ordered, mutable collections of items (e.g., [1, 2, 3], ['a', 'b', 'c']).
+            tuple: Ordered, immutable collections of items (e.g., (1, 2, 3), ('a', 'b', 'c')).
+            range: Represents a sequence of numbers (e.g., range(5) generates 0, 1, 2, 3, 4).
+        >   Mapping Type:
+            dict: Represents collections of key-value pairs (e.g., {'name': 'Alice', 'age': 30}).
+        >   Set Types:
+            set: Unordered collections of unique items (e.g., {1, 2, 3}).
+            frozenset: Immutable version of set.
+        >   Boolean Type:
+            bool: Represents boolean values, either True or False.
+        >   Binary Types:
+            bytes: Immutable sequences of single bytes (e.g., b'hello').
+            bytearray: Mutable sequences of single bytes.
+            memoryview: Allows access to the internal data of an object without copying.
+
+        These data types form the foundation for working with data in Python. Each type
+        has its own properties and methods, allowing you to perform various operations
+        based on the type of data you are working with.
+
+    =   Python has the following data types built-in by default, in these categories:
+        >   Text Type:	    str
+        >   Numeric Types:	int, float, complex
+        >   Sequence Types:	list, tuple, range
+        >   Mapping Type:	dict
+        >   Set Types:	    set, frozenset
+        >   Boolean Type:	bool
+        >   Binary Types:	bytes, bytearray, memoryview
+        >   None Type:	    NoneType
+
+    =   Getting the Data Type
+        You can get the data type of any object by using the type() function:
+
+    =   Setting the Data Type
+        In Python, the data type is set when you assign a value to a variable:
+
+        Example	Data Type
+            x = "Hello World"	                            str
+            x = 20	                                        int
+            x = 20.5	                                    float
+            x = 1j	                                        complex
+            x = ["apple", "banana", "cherry"]	            list
+            x = ("apple", "banana", "cherry")	            tuple
+            x = range(6)	                                range
+            x = {"name" : "John", "age" : 36}	            dict
+            x = {"apple", "banana", "cherry"}	            set
+            x = frozenset({"apple", "banana", "cherry"})	frozenset
+            x = True	                                    bool
+            x = b"Hello"	                                bytes
+            x = bytearray(5)	                            bytearray
+            x = memoryview(bytes(5))	                    memoryview
+            x = None	                                    NoneType
+
+    =   Setting the Specific Data Type
+        If you want to specify the data type, you can use the following constructor
+        functions:
+
+        Example	Data Type
+            x = str("Hello World")	                        str	
+            x = int(20)	                                    int	
+            x = float(20.5)	                                float	
+            x = complex(1j)	                                complex	
+            x = list(("apple", "banana", "cherry"))	        list	
+            x = tuple(("apple", "banana", "cherry"))	    tuple	
+            x = range(6)	                                range	
+            x = dict(name="John", age=36)	                dict	
+            x = set(("apple", "banana", "cherry"))	        set	
+            x = frozenset(("apple", "banana", "cherry"))	frozenset	
+            x = bool(5)	                                    bool	
+            x = bytes(5)	                                bytes	
+            x = bytearray(5)	                            bytearray	
+            x = memoryview(bytes(5))	                    memoryview	
+
+    =   What is a Tuple?
+        Tupes are immutable list.
+        Tupes are created with the help of round brackets ().
+
+    =   What is a Set?
+        >   Set is collection
+        >   Set is defined with the help of curly braces {}
+        >   Values in set are unique. Set removes duplicates
+        >   Set order numeric values in accessending order
+
