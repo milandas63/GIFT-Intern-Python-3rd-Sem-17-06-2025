@@ -1174,3 +1174,6 @@ PYTHON GLOSSARY
             +--------+    +   |    =   |
             |   C    |        |        |
             +--------+--------+--------+
+
+    =   TKinter Image control library comes in a bundle called Pillow
+            pip install Pillow
